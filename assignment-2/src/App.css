@@ -1,0 +1,31 @@
+.user-form {
+  width: 400px;
+  padding: 20px;
+  margin: 0 auto;
+  background-color: gainsboro;
+  margin-top: 50px;
+}
+input {
+  padding: 3px;
+}
+#country {
+  width: 200px;
+  height: 25px;
+}
+#gender {
+  width: 100px;
+  height: 25px;
+}
+p {
+  color: red;
+}
+button {
+  padding: 8px;
+  width: 100px;
+  background-color: blanchedalmond;
+  border-radius: 200px;
+}
+button:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
